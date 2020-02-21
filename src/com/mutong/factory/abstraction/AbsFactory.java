@@ -14,10 +14,10 @@ public interface AbsFactory {
 
     public static void main(String[] args) {
 
-        AbsFactory absFactory = new HpFactory();
+        AbsFactory absFactory1 = new HpFactory();
         AbsFactory absFactory2 = new DellFactory();
-        Mouse hpmouse = absFactory.createMouse();
-        Keybo hpkeybo = absFactory.createKeybo();
+        Mouse hpmouse = absFactory1.createMouse();
+        Keybo hpkeybo = absFactory1.createKeybo();
         Keybo dellkeybo1 = absFactory2.createKeybo();
         Keybo dellkeybo2 = absFactory2.createKeybo();
 

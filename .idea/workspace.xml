@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="994b8742-4cd9-4053-91b3-404d29ec602c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/AbsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/DellFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/DellKeybo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/DellMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/HpFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/HpKeybo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/HpMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/Keybo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/AbsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mutong/factory/abstraction/AbsFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,12 +51,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="1675" />
+          <entry key="java" value="1678" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1675" />
+          <entry key="JAVA" value="1678" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -85,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mutong/factory/abstraction/AbsFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="318">
+              <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -270,7 +261,7 @@
     <option name="jreName" value="#JAVA_HOME" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="986" />
     <option name="y" value="18" />
     <option name="width" value="1607" />
@@ -344,7 +335,7 @@
     <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582261231222" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582261296925" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetcodeTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -473,12 +464,12 @@
       <workItem from="1581066981319" duration="55000" />
       <workItem from="1581067071691" duration="3905000" />
       <workItem from="1581257491882" duration="3476000" />
-      <workItem from="1582254902159" duration="5688000" />
+      <workItem from="1582254902159" duration="6300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21125000" />
+    <option name="totallyTimeSpent" value="21737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -904,8 +895,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mutong/factory/abstraction/AbsFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        <state relative-caret-position="318">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
         </state>
       </provider>
     </entry>
