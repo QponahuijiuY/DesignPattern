@@ -12,6 +12,7 @@ public interface AbsFactory {
     Mouse createMouse();
     Keybo createKeybo();
 
+
     public static void main(String[] args) {
 
         AbsFactory absFactory1 = new HpFactory();
