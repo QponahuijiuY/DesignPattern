@@ -8,9 +8,10 @@ package com.mutong.builder;
 public class Test {
     public static void main(String[] args) {
 
-        Builder builder = new MacBuilder();
-        builder.createBoard();
-        builder.createDisplay();
+        Director director = new Director(new MacBuilder());
+        director.abstractBuilder.createBoard();
+        director.abstractBuilder.createDisplay();
+
 
         Builder builder1 = new WinBuilder();
         builder1.createDisplay();
